@@ -1,0 +1,12 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.copilot/
+.gitconfig
+.oh-my-zsh/
+.profile
+.vscode-server/
+.zprofile
+.zshrc
